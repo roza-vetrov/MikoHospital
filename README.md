@@ -1,4 +1,4 @@
-RU https://andr2d2-js.github.io/Miko-Hospital-/
+RU https://roza-vetrov.github.io/MikoHospital/
 
 Mico Hospital — адаптивный сайт-визитка медицинского учреждения, разработанный с нуля с использованием HTML, CSS и JavaScript.
 
